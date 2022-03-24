@@ -1,0 +1,40 @@
+body {
+    background-image: url(./image/background.jpg);
+    background-size: cover;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    border: solid 0px rgba(128, 128, 128, 0.466);
+    background-color: rgba(128, 128, 128, 0.466);
+    padding: 30px;
+}
+
+h2 {
+    color: coral;
+    text-align: center;
+}
+
+div {
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 10px;
+    padding-bottom: 40px;
+    border: solid 7px grey;
+    border-radius: 15px 0px 15px 0;
+    margin-top: 40px
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+div div {
+    text-align: right;
+    border: none;
+}

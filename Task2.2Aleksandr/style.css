@@ -1,0 +1,20 @@
+body {
+    background-image: url(./image/cat.png);
+    background-size: cover;
+}
+
+main {
+    width: 40%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    padding-left: 40px;
+}
+
+h1 {
+    color: rgba(154, 159, 163, 0.712);
+}
+
+h2 {
+    background-image: linear-gradient(to top, red, rgba(255, 0, 0, 0.137));
+    padding: 40px;
+}

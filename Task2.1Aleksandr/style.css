@@ -1,0 +1,25 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: rgb(241, 13, 13);
+    font-size: 30px;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+p {
+    font-size: 19px;
+    color: rgb(53, 54, 54);
+    max-width: 300px;
+}
+
+a {
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+    letter-spacing: 3px;
+}
